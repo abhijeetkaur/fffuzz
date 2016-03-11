@@ -1,0 +1,8 @@
+# Ignoring mp3 files
+*.mp3
+
+# Binary
+fffuzz
+
+# Log file
+fuzzing_log.log
